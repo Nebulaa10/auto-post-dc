@@ -4,8 +4,7 @@ import asyncio
 # Konfigurasi
 TOKEN = "NjM20TA0MTI1MDY1NTkyODM3.Gvzmst.1CcuBDgZ3-Tj0jSheTkGQQv-vUBzX1FH5K0iXY"
 CHANNEL_ID = 1436130410290479185  # Ganti dengan ID channel Discord tujuan
-CUSTOM_CHAT = "
-> # **SHOP AT >> BAPAK <<**
+CUSTOM_CHAT = "> # **SHOP AT >> BAPAK <<**
 > # —————————————
 > # - **IRON BARS**
 > # - **EGGS BENEDICT**
@@ -16,8 +15,7 @@ CUSTOM_CHAT = "
 > # - **SSP (COMING SOON)**
 > # - **FARMER SLAVE (stock 10+)**
 > # —————————————
-> # **GO >> BAPAK <<**
-"  # Pesan custom
+> # **GO >> BAPAK <<**"  # Pesan custom
 COOLDOWN = 30  # Cooldown dalam detik
 
 class AutoChatBot(discord.Client):
